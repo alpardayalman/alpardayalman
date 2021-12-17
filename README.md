@@ -10,5 +10,5 @@
 <h3>Github Stats:</h3>
 <img align="center" height= "250" width="700px" src="https://github-readme-stats.vercel.app/api/?username=alpardayalman&theme=blue-green" />
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanadev&langs_count=5&theme=blug-green">
-<img aligh="right" src="https://github-profile-trophy.vercel.app/?username=alpardayalman&theme=blue-green&column=3&margin-w=20&margin-h=20">
+<img align="left" height="100" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanadev&langs_count=5&theme=blug-green">
+<img aligh="right" height="100" width="200" src="https://github-profile-trophy.vercel.app/?username=alpardayalman&theme=blue-green&column=3&margin-w=20&margin-h=20">
