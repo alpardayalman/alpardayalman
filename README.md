@@ -2,5 +2,5 @@
 
 ---
 
-[<img align="left" height="150px" src="https://i.postimg.cc/c4MC9HfC/173149-F5-3-F57-40-C7-9496-7-BEDCDF4-B1-A9.png">](https://www.beautifyconverter.com/steganographic-decoder.php)  
+[<img align="left" height="150px" src="https://i.pinimg.com/564x/97/a6/f2/97a6f2089b69009442d9f7fc34c29a78.jpg">](https://www.beautifyconverter.com/steganographic-decoder.php)  
 <h4 style="margin-top: 0px; padding-top: 0px;">Socials:</h4>
