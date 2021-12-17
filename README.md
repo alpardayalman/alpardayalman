@@ -1,9 +1,7 @@
 # My Github
 
 ---
-<div>
 [![ayalman's 42 stats](https://badge42.herokuapp.com/api/stats/ayalman?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-</div>
 ---
 <h3>Github Stats:</h3>
 ---
