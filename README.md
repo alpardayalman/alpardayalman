@@ -9,6 +9,6 @@
 ---
 <h3>Github Stats:</h3>
 <img align="center" height= "250" width="700px" src="https://github-readme-stats.vercel.app/api/?username=alpardayalman&theme=blue-green" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanadev&langs_count=7&theme=blug-green">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpardayalman&theme=blue-green&column=3&margin-w=20&margin-h=20">
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanadev&langs_count=7&theme=blug-green">
+<img src="https://github-profile-trophy.vercel.app/?username=alpardayalman&theme=blue-green&column=3&margin-w=20&margin-h=20">
