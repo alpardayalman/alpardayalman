@@ -1,5 +1,4 @@
 
-<img src="https://i.pinimg.com/564x/bb/b2/86/bbb28694aa61acf59e2f4854521ba427.jpg" align="center" height="200" width="1000" title="hover text">
 
 ---
 ## Piscine
