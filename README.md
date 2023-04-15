@@ -20,6 +20,3 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/alpardayalman?tab=repositories)
 
-<p align = "center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=alpardayalman&bg_color=000000&color=4995dd&line=18c469&point=4995dd&area=true&area_color=fed026">
-</p> 
