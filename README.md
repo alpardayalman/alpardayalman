@@ -56,7 +56,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
 <!--  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=alpardayalman&show_icons=true&include_all_commits=true&theme=blue-green" alt="Alp's Github Stats" /> -->
  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpardayalman&layout=compact&count_private=true&theme=blue-green" />
- <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpardayalman&show_icons=true&locale=en&layout=compact&theme=blue-green&line_height=0" />
   <img height="146" width="200" src="https://i.pinimg.com/originals/2f/45/a2/2f45a2bfde367d5608532bb880f6a64d.gif" />
 </p> 
 
