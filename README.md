@@ -69,6 +69,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/alpardayalman?tab=repositories)
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/alpardayalman"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ## Click to Contact
 
 <div align="left">
