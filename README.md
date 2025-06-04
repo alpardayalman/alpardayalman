@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=100&lines=Hello;My+Name+Is+Alp+Arda;I+am+from+Turkey+/+Portugal;Data+science;Vibe+Coding;MLOps:Interested+in+problem+solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=100&lines=Hello;My+Name+Is+Alp+Arda;I+am+from+Turkey+/+Portugal;Data+science;Vibe+Coding;MLOps;Interested+in+problem+solving" alt="Typing SVG" />
 
 </div>
 
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/alpardayalman?tab=repositories)
 
-
+### My Zoo (don't feed the ducks)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/alpardayalman"
