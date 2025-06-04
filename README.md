@@ -1,7 +1,14 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=100&lines=Hello;My+Name+Is+Alp+Arda;I+am+from+Turkey+/+Portugal;Data+science;Vibe+Coding;MLOps:Interested+in+problem+solving" alt="Typing SVG" />
+
+</div>
+
+
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/alpardayalman?tab=repositories)
 
-<h2 align="left">Hi 👋! My name is Alp Arda and I'm a softwere developer, from Turkey</h2>
+
 
 ###
 
@@ -88,5 +95,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  </a>
 </div>
- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-You can reach me via email at alpa.yalman@gmail.com
+If you want to talk hit me up alpa.yalman@gmail.com
+
+
+
+
+
+
